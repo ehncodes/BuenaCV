@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="BuenaCV" />
+              <option name="title_text" value="BuenaJillCV" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1543,7 +1543,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6NhH2Yq6vQh" displaytext="Choose " expand="true" type="slide">
+        <slidelink slideid="_player.6NhH2Yq6vQh" displaytext="Choose Your Candidate" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6NhH2Yq6vQh.5j4JCiJgHtI" displaytext="Welcome Screen" expand="false" type="slide" />
             <slidelink slideid="_player.6NhH2Yq6vQh.5x2kqrKbRct" displaytext="Character slide (Buena)" expand="false" type="slide" />
