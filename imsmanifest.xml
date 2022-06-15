@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">BuenaCV</langstring>
+          <langstring xml:lang="x-none">BuenaJillCV</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="BuenaCV_ORG">
-    <organization identifier="BuenaCV_ORG">
-      <title>BuenaCV</title>
+  <organizations default="BuenaJillCV_ORG">
+    <organization identifier="BuenaJillCV_ORG">
+      <title>BuenaJillCV</title>
       <item identifier="BuenaCV_SCO" isvisible="true" identifierref="__6N9mQf8RTTE_RES">
-        <title>BuenaCV</title>
+        <title>BuenaJillCV</title>
       </item>
     </organization>
   </organizations>
